@@ -30,3 +30,6 @@ git checkout branch name // to navigate from one branch to another
 git checkout -b branch name // to create new branch
 git checkout -d branch name // to delete a branch
 
+MEARGING CODE
+git diff branch name // to compare commits, branches, files & more
+git merge branch name // to merge branch into current branch
