@@ -33,3 +33,6 @@ git checkout -d branch name // to delete a branch
 MEARGING CODE
 git diff branch name // to compare commits, branches, files & more
 git merge branch name // to merge branch into current branch
+
+PULL COMMAND
+git pull origin branch name // to pull from remote repository
