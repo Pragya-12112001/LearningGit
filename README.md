@@ -25,3 +25,8 @@ git remote -v // to verify origin
 git branch // to check branch
 git branch -M main //to rename branch
 
+git checkout branch name // to navigate from one branch to another
+
+git checkout -b branch name // to create new branch
+git checkout -d branch name // to delete a branch
+
