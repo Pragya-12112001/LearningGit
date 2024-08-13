@@ -28,7 +28,7 @@ git branch -M main //to rename branch
 git checkout branch name // to navigate from one branch to another
 
 git checkout -b branch name // to create new branch
-git checkout -d branch name // to delete a branch
+git checkout -d branch name // to delete a branch. you cannot delete the one in which you are currently on
 
 MEARGING CODE
 git diff branch name // to compare commits, branches, files & more
