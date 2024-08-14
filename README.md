@@ -1,7 +1,7 @@
 # LearningGit
 # git
 learning how to use git
-git clone https://github.com/Pragya-12112001/git.git // https
+git clone https://github.com/Pragya-12112001/LearningGit.git // https
 ls
 ls -a // to see  hidden files
 git status // to check modification or new files (untracked files)
